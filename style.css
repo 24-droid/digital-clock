@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+}
+.center
+{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding-top:300px;
+}
+span{
+    font-weight:bold;
+    color:aliceblue;
+    font-size: 30px;
+}
+#clock
+{
+    width:250px;
+    height:80px;
+    background-color:orangered;
+    border-radius:15px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    font-size:24px;
+    text-align: center;
+}
